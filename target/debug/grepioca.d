@@ -1,1 +1,1 @@
-C:\Users\daniel.lima\Documents\grepioca\target\debug\grepioca.exe: C:\Users\daniel.lima\Documents\grepioca\src\lib.rs C:\Users\daniel.lima\Documents\grepioca\src\main.rs
+/Users/danielpereiralima/Documents/Rust/grepioca/target/debug/grepioca: /Users/danielpereiralima/Documents/Rust/grepioca/src/lib.rs /Users/danielpereiralima/Documents/Rust/grepioca/src/main.rs
